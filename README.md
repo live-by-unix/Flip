@@ -16,7 +16,7 @@ It works as both a CLI utility and an HTTP server.
 
 ### Build from source
 \`\`\`bash
-git clone <your repo>
+git clone https://github.com/live-by-unix/flip.git
 cd flip
 cargo install --path .
 \`\`\`
